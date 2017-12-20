@@ -20,7 +20,12 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls lists the files in your current directory
+> > pwd shows your working directory
+> > cd changes your working directory
+> > mkdir creates a new directory in your working directory
+> > touch creates a new file within your working directory 
+
 
 ---
 
