@@ -34,6 +34,9 @@ mv | moves a file to a new folder, or can be used to rename
 rm | remove files
 rm -r | remove directories
 cat | outputs contents of a file
+cat > | redirect content
+cat >> | *add* content
+
 ---
 
 ### Q2.  List Files in Unix   
