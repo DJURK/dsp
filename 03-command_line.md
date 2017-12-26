@@ -40,7 +40,7 @@ wc | outputs number of lines, words, characters
 sort | alphabetically sorts content 
 uniq | shows unique lines in file
 grep -i x | lists lines with x in it, -i makes it case insensitive
-
+sed s | find and replace strings
 ---
 
 ### Q2.  List Files in Unix   
