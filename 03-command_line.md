@@ -36,6 +36,10 @@ rm -r | remove directories
 cat | outputs contents of a file
 cat > | redirect content
 cat >> | *add* content
+wc | outputs number of lines, words, characters
+sort | alphabetically sorts content 
+uniq | shows unique lines in file
+grep -i x | lists lines with x in it, -i makes it case insensitive
 
 ---
 
