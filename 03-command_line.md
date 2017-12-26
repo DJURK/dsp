@@ -33,7 +33,7 @@ cp a b | copies contents of "a" into "b"
 mv | moves a file to a new folder, or can be used to rename
 rm | remove files
 rm -r | remove directories
-
+cat | outputs contents of a file
 ---
 
 ### Q2.  List Files in Unix   
