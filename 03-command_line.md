@@ -28,7 +28,7 @@ pwd | shows your working directory.
 cd | changes your working directory. 
 mkdir | creates a new directory in your working directory. 
 touch | creates a new file within your working directory. 
-
+ls -a | lists files, including hidden ones, in your current directory 
 
 ---
 
