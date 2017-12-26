@@ -31,6 +31,8 @@ touch | creates a new file within your working directory.
 ls -a | lists files, including hidden ones, in your current directory 
 cp a b | copies contents of "a" into "b"
 mv | moves a file to a new folder, or can be used to rename
+rm | remove files
+rm -r | remove directories
 
 ---
 
