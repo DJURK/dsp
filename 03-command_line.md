@@ -72,7 +72,7 @@ ls -Glp | Enables colorized output and lists all files in long format while writ
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > I like *ls -1, ls -m, ls -p, ls -x, and ls -t* the most because they format the file listing in some type of way to make it easier to read.
 
 ---
 
