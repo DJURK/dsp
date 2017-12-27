@@ -56,6 +56,7 @@ What do the following commands do:
 
 > > REPLACE THIS TEXT WITH YOUR RESPONSE
 *long format* displays file mode, number of links, owner name, group name, byte size, month, day, year the file was last modified, and the pathname
+
 Command | Action
 ------- | ------
 ls | lists the files in your current directory
