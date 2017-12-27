@@ -55,7 +55,16 @@ What do the following commands do:
 `ls -Glp`  
 
 > > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+*long format* displays file mode, number of links, owner name, group name, byte size, month, day, year the file was last modified, and the pathname
+Command | Action
+------- | ------
+ls | lists the files in your current directory
+ls -a | lists all files, including hidden ones, in your current directory
+ls -l | lists files in long format in your current directory
+ls -lh | lists files in long format and uses unit suffixes for Byte, Kilobyte, Megabyte, etc in your current directory
+ls -lah | lists all files, including hidden ones, in long format and uses unit suffixes to reduce digits
+ls -t | lists all files sorted by time modified.  Most recent modified file will be first
+ls -Glp | Enables colorized output and lists all files in long format while writing a slash after directories
 ---
 
 ### Q3.  More List Files in Unix  
