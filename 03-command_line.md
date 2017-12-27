@@ -80,7 +80,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > *xargs* takes in a standard input and executes the command.  If no command is given in the input, the default is *echo*.  For example, typing *xargs* then "Hello" will simply print "Hello."
 
  
 
