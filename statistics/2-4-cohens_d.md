@@ -15,6 +15,7 @@ def CohenEffectSize(group1, group2):
 
 
 CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb) = -0.088672927072602006
+
 CohenEffectSize(firsts.prglngth, others.prglngth) = 0.028879044654449883
 
 The mean pregnancy length for first babies was slightly longer while the mean weight of first babies was slightly lower.
