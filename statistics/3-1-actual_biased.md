@@ -13,3 +13,5 @@ The plot function would be this:
   thinkplot.Config(xlabel='Number of children', ylabel='PMF')
 
 and the means are : pmf = 1.0242051550438309, biased = 2.4036791006642821
+
+The means are drastically different between the two datasets, and it shows how big of an impact biased data can have on research.
