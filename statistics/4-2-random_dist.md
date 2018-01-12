@@ -12,4 +12,4 @@ cdf = thinkstats2.Cdf(t)<br />
 thinkplot.Cdf(cdf)<br />
 thinkplot.Config(xlabel='Random variate', ylabel='CDF')
 
-The CDF plot of the 1000 random numbers is pretty much a straight line from 0 to 1 on both axes.  This means that the distribution is random.
+The CDF plot of the 1000 random numbers is pretty much a straight line from 0 to 1 on both axes.  This means that every value has the same chance of being selected from the random sample.
